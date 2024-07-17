@@ -25,3 +25,21 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.video-item {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.video-item .delete-btn {
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
